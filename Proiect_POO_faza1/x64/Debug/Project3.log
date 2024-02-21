@@ -1,0 +1,19 @@
+﻿  analizator.cpp
+  analizator.h
+  calculator.cpp
+C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\calculator.cpp(104,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\calculator.cpp(114,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\calculator.cpp(136,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\calculator.cpp(177,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\calculator.cpp(177,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\calculator.cpp(180,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\calculator.cpp(180,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  calculator.h
+  functii.cpp
+  main.cpp
+  container.cpp
+  Generating Code...
+C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\container.cpp(46): warning C4715: 'Container::operator=': not all control paths return a value
+x64\Debug\analizator.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\calculator.obj : warning LNK4042: object specified more than once; extras ignored
+  Project3.vcxproj -> C:\Users\Simionescu Alexandru\Desktop\Proiect_POO_faza1\x64\Debug\Project3.exe
